@@ -1,7 +1,7 @@
 const arrayOfBooks = [
 {
-    book : "Wonder",
-    author : "RJ Palacio",
+    book : "Save Me",
+    author : "Lisa Scottline",
 },
 {
     book : "The Line Tender",
@@ -11,6 +11,10 @@ const arrayOfBooks = [
 {
     book : "Blight",
     author : "Alexandra Duncan",
+},
+{
+    book : "What Remains",
+    author : "Carole Radziwill",
 },
 ]
 
